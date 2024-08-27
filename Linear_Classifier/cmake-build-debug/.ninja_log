@@ -1,0 +1,25 @@
+# ninja log v5
+3	3654	1711131759216540300	CMakeFiles/Linear_Classifier.dir/main.cpp.o	330ad7fa9ddad6bd
+3674	4255	1711131759786043000	Linear_Classifier.exe	5eb8967fea043e89
+37	2961	1711131772114993300	CMakeFiles/Linear_Classifier.dir/main.cpp.o	330ad7fa9ddad6bd
+2964	3558	1711131772694509600	Linear_Classifier.exe	5eb8967fea043e89
+30	2905	1711131808917852900	CMakeFiles/Linear_Classifier.dir/main.cpp.o	330ad7fa9ddad6bd
+2908	3685	1711131809663889700	Linear_Classifier.exe	5eb8967fea043e89
+27	3099	1711131818436101400	CMakeFiles/Linear_Classifier.dir/main.cpp.o	330ad7fa9ddad6bd
+3102	3872	1711131819212058700	Linear_Classifier.exe	5eb8967fea043e89
+24	2908	1711131839321570400	CMakeFiles/Linear_Classifier.dir/main.cpp.o	330ad7fa9ddad6bd
+2912	3502	1711131839903037400	Linear_Classifier.exe	5eb8967fea043e89
+24	3008	1711131852055382600	CMakeFiles/Linear_Classifier.dir/main.cpp.o	330ad7fa9ddad6bd
+3011	3603	1711131852636850200	Linear_Classifier.exe	5eb8967fea043e89
+29	2793	1711131879457916400	CMakeFiles/Linear_Classifier.dir/main.cpp.o	330ad7fa9ddad6bd
+2797	3364	1711131880018434300	Linear_Classifier.exe	5eb8967fea043e89
+30	2702	1711131926891494100	CMakeFiles/Linear_Classifier.dir/main.cpp.o	330ad7fa9ddad6bd
+2705	3379	1711131927556742300	Linear_Classifier.exe	5eb8967fea043e89
+33	5236	1711133716298896700	CMakeFiles/Linear_Classifier.dir/main.cpp.o	330ad7fa9ddad6bd
+5239	5808	1711133716883349500	Linear_Classifier.exe	5eb8967fea043e89
+27	3844	1711133879204922100	CMakeFiles/Linear_Classifier.dir/main.cpp.o	330ad7fa9ddad6bd
+3847	4391	1711133879702639400	Linear_Classifier.exe	5eb8967fea043e89
+84	6249	1711389924001042700	CMakeFiles/Linear_Classifier.dir/main.cpp.o	330ad7fa9ddad6bd
+6257	7086	1711389924838891000	Linear_Classifier.exe	5eb8967fea043e89
+131	3717	1711391258775321600	CMakeFiles/Linear_Classifier.dir/main.cpp.o	330ad7fa9ddad6bd
+3719	4266	1711391259328571100	Linear_Classifier.exe	5eb8967fea043e89

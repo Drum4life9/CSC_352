@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.24"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Linear_Classifier",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Linear_Classifier::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Linear_Classifier-Debug-c4d01c0aae6e85cbd988.json",
+					"name" : "Linear_Classifier",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/cygdrive/c/Users/dasd/OneDrive - Lebanon Valley College/LVC work/CDS work/LVC-CDS/CSC 352/Linear_Classifier/cmake-build-debug",
+		"source" : "/cygdrive/c/Users/dasd/OneDrive - Lebanon Valley College/LVC work/CDS work/LVC-CDS/CSC 352/Linear_Classifier"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
